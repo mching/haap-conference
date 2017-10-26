@@ -25,6 +25,6 @@ Below are links to download the slides in various formats (1 slide per page, 2 s
 * [2 slides per page](https://www.dropbox.com/s/0zr7po5nqcnkgtz/anaphylaxis2.pdf?dl=0)
 
 ### Non-epileptic Spells (131 slides)
-* 1 slide per page
+* [1 slide per page](https://www.dropbox.com/s/zwe4l46tb21w01k/nonepilepticspells1.pdf?dl=0)
 * [6 slides per page](https://www.dropbox.com/s/65l7djva8v34tzk/nonepilepticspells.pdf?dl=0)
 
