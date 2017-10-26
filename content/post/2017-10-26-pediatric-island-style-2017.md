@@ -7,9 +7,15 @@ categories: conference
 tags: abuse, seizures, anaphylaxis, neurology, concussion
 ---
 
-Mahalo for registering for Pediatrics Island Style on November 2, 2017! By popular request, we are distributing the handouts electronically this year. This allows us to get these to you faster, saves you conference fees, and helps the environment!
+Mahalo for registering for [Pediatrics Island Style](http://aaphawaii.org/event/pediatrics-island-style-conference-cme-available/) to be held at the Ala Moana Hotel on November 2, 2017! 
 
-Below are links to download the slides in various formats (1 slide per page, 2 slides per page, etc.). Please download the slide format of your choice to your phone, tablet, or laptop before the conference. You may also print these slides at home if you prefer. 
+By popular request, we are distributing the handouts electronically this year. This allows us to get these to you faster, saves you conference fees, and helps the environment!
+
+<em>Please download the slide format of your choice to your phone, tablet, or laptop before the conference.</em> Below are links to download the slides in various formats (1 slide per page, 2 slides per page, etc.). 
+
+You may also print these slides at home if you prefer. No  paper copies of the slides will be available at the conference site. 
+
+Please contact Sharon Hicks, AAP Hawaii Executive Director, at 808-282-4944 or [haapsharon@gmail.com](mailto:haapsharon@gmail.com) if you have any questions.
 
 ### Sexual Exploitation of Children (56 slides)
 * [1 slide per page](https://mching.github.io/pdfs/exploitation1.pdf)
