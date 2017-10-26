@@ -1,0 +1,25 @@
+baseurl = "https://haap.netlify.com"
+title = "HAAP Conference Materials"
+author = "HAAP"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  sitename = "HAAP Conference Materials"
+
+[[menu.main]]
+    name = "About HAAP"
+    url  = "https://aaphawaii.org"
+[[menu.main]]
+   name = "HAAP Events"
+   url  = "https://aaphawaii.org/events"
+# [[menu.main]]
+#    name = "CME "
+#   url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+
