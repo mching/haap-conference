@@ -1,7 +1,7 @@
 ---
 title: Pediatric Island Style 2017 Handouts
 author: HAAP
-date: '2017-11-02'
+date: '2017-10-24'
 slug: pediatric-island-style-2017
 categories: conference
 tags: abuse, seizures, anaphylaxis, neurology, concussion
