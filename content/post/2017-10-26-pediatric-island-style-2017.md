@@ -9,7 +9,7 @@ tags: abuse, seizures, anaphylaxis, neurology, concussion
 
 Mahalo for registering for [Pediatrics Island Style](http://aaphawaii.org/event/pediatrics-island-style-conference-cme-available/) to be held at the Ala Moana Hotel on November 2, 2017! 
 
-By popular request, we are distributing the handouts electronically this year. This allows us to get these to you faster, saves you conference fees, and helps the environment!
+By popular request, we are distributing the handouts electronically this year. This allows us to get these to you faster, keeps your conference costs down, and helps the environment!
 
 <em>Please download the slide format of your choice to your phone, tablet, or laptop before the conference.</em> Below are links to download the slides in various formats (1 slide per page, 2 slides per page, etc.). 
 
