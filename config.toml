@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   sitename = "HAAP Conference Materials"
 
 [[menu.main]]
-    name = "About HAAP"
+    name = "HAAP"
     url  = "https://aaphawaii.org"
 [[menu.main]]
    name = "HAAP Events"
