@@ -18,19 +18,19 @@ You may also print these slides at home if you prefer. No  paper copies of the s
 Please contact Sharon Hicks, AAP Hawaii Executive Director, at 808-282-4944 or [haapsharon@gmail.com](mailto:haapsharon@gmail.com) if you have any questions.
 
 ### Sexual Exploitation of Children (56 slides)
-* [1 slide per page](https://mching.github.io/pdfs/exploitation1.pdf)
-* [2 slides per page](https://mching.github.io/pdfs/exploitation2.pdf) 
-* [4 slides per page](https://mching.github.io/pdfs/exploitation4.pdf)
+* [1 slide per page](pdfs/exploitation1.pdf)
+* [2 slides per page](pdfs/exploitation2.pdf) 
+* [4 slides per page](pdfs/exploitation4.pdf)
 
 ### Anaphylaxis (36 slides)
-* [1 slide per page](https://mching.github.io/pdfs/anaphylaxis1.pdf)
-* [2 slides per page](https://mching.github.io/pdfs/anaphylaxis2.pdf)
+* [1 slide per page](pdfs/anaphylaxis1.pdf)
+* [2 slides per page](pdfs/anaphylaxis2.pdf)
 
 ### Concussion Update (64 slides)
-* [1 slide per page](https://mching.github.io/pdfs/concussion1.pdf)
-* [2 slides per page](https://mching.github.io/pdfs/concussion2.pdf)
+* [1 slide per page](pdfs/concussion1.pdf)
+* [2 slides per page](pdfs/concussion2.pdf)
 
 ### Non-epileptic Spells (131 slides)
-* [1 slide per page](https://mching.github.io/pdfs/nonepilepticspells1.pdf)
-* [6 slides per page](https://mching.github.io/pdfs/nonepilepticspells6.pdf)
+* [1 slide per page](pdfs/nonepilepticspells1.pdf)
+* [6 slides per page](pdfs/nonepilepticspells6.pdf)
 
