@@ -1,10 +1,10 @@
 ---
 title: Pediatrics Island Style 2018
 author: HAAP
-date: '2018-09-27'
+date: '2018-09-20'
 slug: pediatrics-island-style-2018
 categories: conference
-tags: ENT, otolaryngology, breastfeeding, gender, anxiety, behavior, headache, neurology
+tags: ENT, otolaryngology, breastfeeding, gender, anxiety
 ---
 
 
