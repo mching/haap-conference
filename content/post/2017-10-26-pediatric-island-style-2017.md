@@ -7,7 +7,7 @@ categories: conference
 tags: abuse, seizures, anaphylaxis, neurology, concussion
 ---
 
-[Pediatrics Island Style](http://aaphawaii.org/event/pediatrics-island-style-conference-cme-available/) was held at the Ala Moana Hotel on November 2, 2017! 
+[Pediatrics Island Style](http://aaphawaii.org/event/pediatrics-island-style-conference-cme-available/) was held at the Ala Moana Hotel on November 2, 2017.
 
 The agenda for the conference was below:
 
